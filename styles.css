@@ -1,0 +1,61 @@
+html{
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to right,  rgb(112, 112, 139), darkblue, rgb(34, 5, 49), black);
+    
+
+}
+
+h1 {
+    font-family: "Jura";
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    letter-spacing: 10px;
+
+
+}
+p{
+    font-family:sans-serif;
+    color:rgb(239, 236, 236);
+    letter-spacing: 50px;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0) ;
+    text-transform: uppercase;
+    text-decoration: overline;
+}
+
+#container{
+    width: 80rem;
+    height: 200rem  ;
+    background-color: antiquewhite;
+    display: flex;
+    margin: auto;
+    
+    
+}
+
+
+.area1, .area2 {
+    
+    width: 70rem;
+    height: 50rem;
+    margin: 50px;
+    
+    
+}
+
+
+
+#text-case{
+    background-color: blue;
+    
+    
+    
+}
+
+#text-resolution{
+    background-color: brown;
+}
